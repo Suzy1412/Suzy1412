@@ -1,4 +1,4 @@
-![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+Hi,  I am Suzana👋 
 
 
 <!--
