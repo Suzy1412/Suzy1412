@@ -1,4 +1,5 @@
-![Full Stack Web Developer 2021](https://i.imgur.com/4u3LK4j.png)
+![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+
 
 <!--
 **Suzy1412/Suzy1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
