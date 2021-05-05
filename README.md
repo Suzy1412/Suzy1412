@@ -37,7 +37,7 @@ _generated with [Suzana/snake](https://github.com/Suzy1412)_
 
 
 
-[![Youtube Video](https://photos.google.com/photo/AF1QipPdV62jCSqA_q53Xa5EHaPUJi0zS406X-WSMyYF)](https://youtu.be/vyBS1CR28WM)
+
 
 
 
