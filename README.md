@@ -1,6 +1,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-_generated with [Suzana/snk](https://github.com/Suzy1412)_
+_generated with [Suzana/snake](https://github.com/Suzy1412)_
 
 
 ### Hi there 👋, I'm [Suzana](https://github.com/Suzy1412) 👩🏽‍💻
