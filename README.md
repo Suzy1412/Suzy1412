@@ -1,20 +1,6 @@
 ### Hi there 👋, I'm [Suzana](https://github.com/Suzy1412) 👩🏽‍💻
 
-<br/>
 
-<a href="https://www.linkedin.com/in/suzana-jovanovic-1b9ab81b2/>
-  <img align="left" alt="Suzana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="code.s09@outlook.com">
-  <img align="left" alt="Suzana's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
-<br/>
 
 
 
@@ -42,7 +28,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab
+
 
 
 
