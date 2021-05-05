@@ -1,3 +1,6 @@
+<img width="509" alt="seite3" src="https://user-images.githubusercontent.com/65951047/117121739-5011ac80-ad95-11eb-98fd-19a237a3d71a.png">
+<img width="509" alt="seite4" src="https://user-images.githubusercontent.com/65951047/117121761-5738ba80-ad95-11eb-95b7-124e3c3c1d64.png">
+<img width="1547" alt="discofy" src="https://user-images.githubusercontent.com/65951047/117121780-5f90f580-ad95-11eb-97b6-539f818fedcf.png">
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 _generated with [Suzana/snake](https://github.com/Suzy1412)_
