@@ -33,6 +33,7 @@ _generated with [Suzana/snk](https://github.com/Suzy1412)_
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
 
 
 
