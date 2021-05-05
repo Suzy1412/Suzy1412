@@ -36,7 +36,7 @@ _generated with [Suzana/snake](https://github.com/Suzy1412)_
 ![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
 
 
-[![SC2 Video](https://www.youtube.com/watch?v=vyBS1CR28WM)
+
 
 
 
