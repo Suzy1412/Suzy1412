@@ -14,7 +14,7 @@ _generated with [Suzana/snake](https://github.com/Suzy1412)_
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Traveling  , Choking.
+- 🎿 Hobbies other than coding : Reading blogs or about History , Traveling  , Cooking.
 - 📫 How to reach me: code.s09@outlook.com
 
 
